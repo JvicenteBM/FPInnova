@@ -19,7 +19,7 @@ Archivo fotográfico organizado cronológicamente por eventos y actividades del 
 - Fotos de la formación en Bernat el Ferrer
 
 #### **Reunion online/**
-- Captura de pantalla de la reunión online de seguimiento
+- Captura de pantalla de una reunión online de seguimiento
 
 #### **Evento de cierre en Bernat el Ferrer/**
 - Fotos del evento de cierre del proyecto en Bernat el Ferrer
