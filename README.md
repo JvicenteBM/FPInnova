@@ -30,7 +30,7 @@ Recursos educativos y presentaciones utilizadas en las formaciones:
 - `1 - Imágenes Digitales.pdf` - Módulo sobre imágenes digitales
 - `2 - Visión clásica y deep learning.pdf` - Módulo sobre visión artificial clásica y deep learning
 - `3 - Robótica guiada por visión.docx.pdf` - Módulo sobre robótica guiada por visión
-- `Presentación Formación UR.pdf` - Presentación principal de la formación en la Universidad de La Rioja
+- `Presentación Formación UR.pdf` - Presentación principal del software de visión artificial
 
 ![Portadas del Material Didáctico](Documentación/material-didactico-portadas.png)
 
