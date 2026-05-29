@@ -14,7 +14,6 @@ Archivo fotográfico organizado cronológicamente por eventos y actividades del 
 
 #### **Formacion en UR/**
 - Fotos de la formación realizada en las oficinas de Universal Robots
-- Incluye 13 imágenes del evento y captura de reunión online
 
 #### **Fotos Formacion Bernat el Ferrer/**
 - Fotos de la formación en Bernat el Ferrer
